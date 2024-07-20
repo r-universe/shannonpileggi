@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cards"]
+	path = cards
+	url = https://github.com/insightsengineering/cards
+	registered = false
+[submodule "cardx"]
+	path = cardx
+	url = https://github.com/insightsengineering/cardx
+	registered = false
 [submodule "gtreg"]
 	path = gtreg
 	url = https://github.com/shannonpileggi/gtreg
+[submodule "gtsummary"]
+	path = gtsummary
+	url = https://github.com/ddsjoberg/gtsummary
+	registered = false
