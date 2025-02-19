@@ -1,0 +1,8 @@
+[
+  {
+    "package": "gtsummary",
+    "url": "https://github.com/ddsjoberg/gtsummary",
+    "via": ["gtreg"],
+    "from": "gtreg"
+  }
+]
