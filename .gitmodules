@@ -5,7 +5,3 @@
 [submodule "gtreg"]
 	path = gtreg
 	url = https://github.com/shannonpileggi/gtreg
-[submodule "gtsummary"]
-	path = gtsummary
-	url = https://github.com/ddsjoberg/gtsummary
-	registered = false
